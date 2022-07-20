@@ -1,5 +1,5 @@
-port ADDRESS
-rdp->3389
-ssh->22
-http->80
-https->443
+****port ADDRESS****
+remote desktop protocol(rdp)->3389
+secure shell(ssh)->22
+hyper text transfer protocol(http)->80
+hyper text transfer protocol secure(https)->443
